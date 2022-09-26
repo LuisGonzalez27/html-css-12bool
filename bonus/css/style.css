@@ -3,6 +3,8 @@
     --black: #000000;
     --yellow: #FEDC01;
     --orange: #FD8225;
+    --red: #FF0000;
+    --blue: #0158A6;
 }
 .debug{
     height: 25px; 
@@ -20,6 +22,12 @@
 }
 .orange{
     background-color: var(--orange);
+}
+.red{
+    background-color: var(--red);
+}
+.blue{
+    background-color: var(--blue);
 }
 /* STRUTTURA */
 body{
