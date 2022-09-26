@@ -1,0 +1,16 @@
+:root{
+    --white: #FFFFFF;
+    --black: #000000;
+    --blue: #006CFA;
+    --green: #00E165;
+}
+.debug{
+    border: 1px solid white;
+    background-color: var(--blue);
+    color: var(--white);
+}
+/* STRUTTURA */
+body{
+    background-color: var(--white);
+    font-family: 'Crimson Text', serif;
+}
