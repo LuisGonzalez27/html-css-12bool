@@ -5,20 +5,16 @@
     --orange: #FD8225;
 }
 .debug{
-    height: 50px; 
-    width: 50px;
+    height: 25px; 
 }
-
-  
 .cont{
     max-width: 600px;
     margin: 0 auto;
+    padding-top: 70px;
 }
-
 .black{
     background-color: var(--black);
 }
-
 .yellow{
     background-color: var(--yellow);
 }
