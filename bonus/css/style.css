@@ -1,0 +1,36 @@
+:root{
+    --white: #FFFFFF;
+    --black: #000000;
+    --yellow: #FEDC01;
+    --orange: #FD8225;
+}
+.debug{
+    height: 50px; 
+    width: 50px;
+}
+
+  
+.cont{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.black{
+    background-color: var(--black);
+}
+
+.yellow{
+    background-color: var(--yellow);
+}
+.orange{
+    background-color: var(--orange);
+}
+/* STRUTTURA */
+body{
+    background-color: var(--white);
+    font-family: 'Crimson Text', serif;
+}
+.nested{
+    border: 1px solid var(--blue);
+    background-color: var(--green);
+}
