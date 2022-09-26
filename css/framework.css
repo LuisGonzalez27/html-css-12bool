@@ -21,6 +21,9 @@
 .pad-10{
     padding: 10px;
 }
+.pad-top-20{
+    padding-top: 20px;
+}
 /*** COLUMNS ***/
 .col {
     flex-grow: 1;
