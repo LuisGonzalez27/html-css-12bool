@@ -17,6 +17,10 @@
     display: flex;
     flex-flow: row wrap;
 }
+/* padding */
+.pad-10{
+    padding: 10px;
+}
 /*** COLUMNS ***/
 .col {
     flex-grow: 1;

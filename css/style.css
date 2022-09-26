@@ -5,12 +5,18 @@
     --green: #00E165;
 }
 .debug{
-    border: 1px solid white;
+    border: 1px solid var(--white);
     background-color: var(--blue);
     color: var(--white);
+    min-height: 50px;
+    text-align: center;
 }
 /* STRUTTURA */
 body{
     background-color: var(--white);
     font-family: 'Crimson Text', serif;
+}
+.nested{
+    border: 1px solid var(--blue);
+    background-color: var(--green);
 }
